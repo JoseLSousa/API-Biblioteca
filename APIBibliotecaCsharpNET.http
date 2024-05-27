@@ -1,0 +1,6 @@
+@APIBibliotecaCsharpNET_HostAddress = http://localhost:5119
+
+GET {{APIBibliotecaCsharpNET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
